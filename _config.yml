@@ -1,8 +1,8 @@
 name: "Konstantinos Tseas"
 description: "A website for the course of WWW."
-url: "http://kotseas.github.io"
+url: "http://kotseas.github.com/"
 paginate: 9
-baseurl: /kotseas.github.io
+
 markdown: rdiscount
 safe: true
 lsi: false
